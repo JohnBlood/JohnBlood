@@ -2,7 +2,7 @@
 - 👀 I’m interested in early PC history
 - 🌱 I’m currently learning Ruby and BASIC
 - 📫 How to reach me on [Mastodon](https://fosstodon.org/web/@johnblood)
-- You can supprt me and my work on [Ko-fi](https://ko-fi.com/johnpaulw)
+- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R5A951E)
 
 <!---
 JohnBlood/JohnBlood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
